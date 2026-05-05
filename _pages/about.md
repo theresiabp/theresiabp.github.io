@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-As a 2nd year Atmospheric Science PhD Student from [Kirtman Group](https://kirtman-research-group.github.io), I'm interested in weather & climate risks, with an emphasis on extreme rainfall in the tropics. My research aims to improve climate projections to make coastal communities more resilient by ensuring that decisions are guided by the most useful and reliable information. :thunder_cloud_and_rain:
-
+As a 2nd year Atmospheric Science PhD Student from [Kirtman Group](https://kirtman-research-group.github.io), I'm interested in weather & climate risks, with an emphasis on extreme rainfall in the tropics. My research aims to improve climate projections to make coastal communities more resilient by ensuring that decisions are guided by the most useful and reliable information.
 
 
 Education
