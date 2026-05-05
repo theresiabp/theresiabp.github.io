@@ -9,37 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+- Ph.D in Atmospheric Science, **University of Miami, Rosenstiel School of Marine, Atmospheric & Earth Sciences**, Miami (FL), *Aug 2024 - present*
+- M.P.S. in Climate & Society, **University of Miami, Rosenstiel School of Marine, Atmospheric & Earth Sciences**, Miami (FL), *Aug 2022 - Dec 2023*
+- **IPB University (formerly Bogor Agricultural University)**, Applied Meteorology, BS : *Sep 2017 - Sep 2021*
+
+**Coursework Taken**
+- **Graduate**: Statistical Modeling of Extreme & Rare Events, Climate Change, Weather Forecasting, Atmospheric Dynamics, Atmospheric Physics, General Circulation of Atmosphere, Geophysical Fluid Dynamics
+- **Undergraduate** : Hydrometeorology, Satellite Meteorology, Oceanography, Soil Conservation, Agrometeorology, Hydrologic Analysis, GIS for Applied Meteorology
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - *present*: Student Assistant, Graduate Student Office
+  * University of Miami, Rosenstiel School of Marine, Atmospheric & Earth Sciences
+  * Duties includes: Leading daily campus tours for prospective students and visitors of the UM Rosenstiel School.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2024 - *present*: Graduate Research Assistant
+  * University of Miami, Rosenstiel School of Marine, Atmospheric & Earth Sciences
+  * Duties included: Assisting in research related to the improvement of regional climate projections.
+  * Co-advisors: Dr. Ben Kirtman & Dr. Emily Becker
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Aug 2024: Graduate Research Assistant
+  * University of Central Florida School of Public Administration
+  * Duties included: Supporting NCAR Early Career Faculty Innovator Program project on Hurricane-related survey study.
+  * Supervisor: Dr. Yue Ge
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computation: Python, R, GrADS, NCL
+* Geographic Information Systems: ArcGIS, Google Earth Engine
+* Survey Instrument: Qualtrics
+
 
 Publications
 ======
@@ -59,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
