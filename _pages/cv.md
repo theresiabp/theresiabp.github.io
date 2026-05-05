@@ -14,7 +14,7 @@ Education
 ------
 - Ph.D in Atmospheric Science, **University of Miami, Rosenstiel School of Marine, Atmospheric & Earth Sciences**, Miami (FL), *Aug 2024 - present*
 - M.P.S. in Climate & Society, **University of Miami, Rosenstiel School of Marine, Atmospheric & Earth Sciences**, Miami (FL), *Aug 2022 - Dec 2023*
-- **IPB University (formerly Bogor Agricultural University)**, Applied Meteorology, BS : *Sep 2017 - Sep 2021*
+- B.S. in Applied Meteorology, **IPB University (formerly Bogor Agricultural University)**, Bogor (IDN), *Sep 2017 - Sep 2021*
 
 **Coursework Taken**
 - **Graduate**: Statistical Modeling of Extreme & Rare Events, Climate Change, Weather Forecasting, Atmospheric Dynamics, Atmospheric Physics, General Circulation of Atmosphere, Geophysical Fluid Dynamics
