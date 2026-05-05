@@ -8,7 +8,7 @@ date: 2024-08
 location: "Coral Gables, FL"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Undergraduate Atmospheric Dynamics II
 
 Heading 1
 ======
