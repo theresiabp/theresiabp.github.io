@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Theresia Phoa"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
