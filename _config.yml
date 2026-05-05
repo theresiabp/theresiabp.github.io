@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Theresia Phoa"
 title_separator          : "-"
 name                     : &name "Theresia Phoa"
@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD Student in Atmospheric Science"
   location         : "Miami, FL"
-  employer         : "University of Miami Rosenstiel School"
+  employer         : "University of Miami RSMAES"
   uri              : # URL
   email            : "theresia.phoa@miami.edu" 
 
