@@ -24,7 +24,7 @@ repository               : "theresiabp/theresiabp.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPEG"
-  name             : "Theresia Phoa"
+  name             : "Theresia Bernadette Phoa"
   pronouns         : "she/her"  
   bio              : "PhD Student in Atmospheric Science"
   location         : "Miami, FL"
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-8590-8897"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        :"there.bp"
   lastfm           : # Username
   linkedin         : "theresia-bernadette"
   mastodon         : # URL
